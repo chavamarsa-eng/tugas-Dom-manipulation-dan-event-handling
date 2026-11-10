@@ -1,0 +1,6 @@
+1. Mengapa hitung memakai let, bukan const?
+2. Apa yang terjadi jika baris angka.textConten = hitung; di hapus?
+
+jawab:
+1.Karena nilai variabel nya berubah - ubah
+2.Angka nya tidak akan berubah meskipun tombol kurang, tambah ,reset di tekan
